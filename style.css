@@ -1,0 +1,33 @@
+body{
+    background-color: teal;
+}
+.container{
+    background-color: aliceblue;
+    height: auto;
+}
+
+.block{
+    display: inline-block;
+}
+
+input[type=text]:focus{
+    background: #ffffff;
+    border: 2px solid orange;
+}
+
+.age{
+    display: block;
+    margin: 10px;
+    background-color: orangered;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.base{
+    
+    display: flex;
+    justify-content: center;
+}
